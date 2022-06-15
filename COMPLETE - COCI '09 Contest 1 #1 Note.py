@@ -1,4 +1,4 @@
-# https://dmoj.ca/problem/coci09c1p1
+# https://dmoj.ca/problem/coci09c1p
 
 i = input()
 
